@@ -1,0 +1,11 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"JsRun",
+		"Package Control",
+		"SFTP",
+		"sublime-closure-linter",
+		"sublime-jslint"
+	]
+}
